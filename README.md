@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **React.js, Node.js**
 
-- 📝 My Games Showcase [https://game-sphere-official.netlify.app/](https://game-sphere-official.netlify.app/)
+- 📝 My Games Showcase : [https://game-sphere-official.netlify.app/](https://game-sphere-official.netlify.app/)
 
-- 📫 How to reach me **palsayandeep12345@gmail.com**
+- 📫 My Portfolio : https://sayandeep-pal.netlify.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
