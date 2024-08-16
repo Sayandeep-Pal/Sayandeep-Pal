@@ -8,7 +8,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/sayandeep pal" target="blank"><img src="https://img.shields.io/twitter/follow/sayandeep pal?logo=twitter&style=for-the-badge" alt="sayandeep pal" /></a> </p>
+<p align="left"> <a href="https://x.com/SayandeepPal06" target="blank"><img src="https://img.shields.io/twitter/follow/sayandeep pal?logo=twitter&style=for-the-badge" alt="sayandeep pal" /></a> </p>
 
 - 🌱 I’m currently learning **React.js, Node.js**
 
