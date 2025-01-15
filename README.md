@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React.js, Node.js**
 
-- 📝 My Games Showcase : [https://game-sphere-official.netlify.app/](https://game-sphere-official.netlify.app/)
+- 📝 My Games Showcase : [https://game-sphere-official.netlify.app/](https://game-sphere-official.vercel.app/)
 
 - 📫 My Portfolio : https://sayandeep-pal.netlify.app
 
