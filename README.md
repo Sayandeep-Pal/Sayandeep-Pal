@@ -1,25 +1,24 @@
 ![image](https://github.com/user-attachments/assets/62f8818b-8fd5-49aa-ab00-bc8176cd393d)
 
-<h1 align="center">Hi 👋, I'm Sayandeep Pal</h1>
-<h3 align="center">A passionate Unity Game and frontend developer from India</h3>
+
+<h1 align="center">Enthusiastic in Unity GameDev and Fullstack Development </h1>
 
 ![snake gif](https://github.com/Sayandeep-Pal/Sayandeep-Pal/blob/output/github-contribution-grid-snake-dark.svg)
 
-
+<h1 align="left">📌 About Me</h1>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 
 
 
-<p align="left"> <a href="https://x.com/SayandeepPal06" target="blank"><img src="https://img.shields.io/twitter/follow/sayandeep pal?logo=twitter&style=for-the-badge" alt="sayandeep pal" /></a> </p>
+- 🎓 Curently in 2nd year of pursuing Engineering in Information Technology.
 
-- 🌱 I’m currently learning **React.js, Node.js**
+- 🚀 Desirous about **Game Development** || Building **GameSphere** || Learning **Next.js** 
 
-- 📝 My Games Showcase : [https://game-sphere-official.vercel.app](https://game-sphere-official.vercel.app/)
+- 🎮 My Games Showcase : [https://game-sphere-official.vercel.app](https://game-sphere-official.vercel.app/)
 
-- 📫 My Portfolio : https://sayandeep-pal.netlify.app
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/SayandeepPal06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayandeep pal" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sayandeep-pal-273979282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayandeep pal" height="30" width="40" /></a>
