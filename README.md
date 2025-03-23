@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Sayandeep Pal</h1>
 <h3 align="center">A passionate Unity Game and frontend developer from India</h3>
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 
