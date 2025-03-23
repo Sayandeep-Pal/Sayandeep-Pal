@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/62f8818b-8fd5-49aa-ab00-bc8176cd393d)
 
 
-<h1 align="center">Enthusiastic about Unity GameDev and Fullstack Development </h1>
+<h1 align="center">Enthusiastic about GameDev and Fullstack Development </h1>
 
 ![snake gif](https://github.com/Sayandeep-Pal/Sayandeep-Pal/blob/output/github-contribution-grid-snake-dark.svg)
 
