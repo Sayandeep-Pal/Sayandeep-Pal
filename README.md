@@ -1,7 +1,7 @@
-![image](https://github.com/user-attachments/assets/62f8818b-8fd5-49aa-ab00-bc8176cd393d)
+<!--![image](https://github.com/user-attachments/assets/62f8818b-8fd5-49aa-ab00-bc8176cd393d)-->
 
 
-<h1 align="center">Enthusiastic about GameDev and Fullstack Development </h1>
+<h1 align="center">Fullstack MERN Developer</h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayandeep-Pal/Sayandeep-Pal/output/github-contribution-grid-snake-dark.svg">
@@ -15,11 +15,11 @@
 
 
 
-- 🎓 Curently in 2nd year of pursuing Engineering in Information Technology.
+- 🎓 Curently in 3rd year of pursuing Engineering in Information Technology.
 
-- 🚀 Desirous about **Game Development** || Building **GameSphere** || Learning **Next.js** 
+- 🚀 Desirous about **Blockchain Development** || Building **ZeroMove** || Learning **System Design** 
 
-- 🎮 My Games Showcase : [https://game-sphere-official.vercel.app](https://game-sphere-official.vercel.app/)
+- 🏠 My Portfolio : [Sayandeep Pal ↗](https://sayandeep-pal.vercel.app)
 
 
 
