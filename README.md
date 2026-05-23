@@ -1,7 +1,10 @@
 <!--![image](https://github.com/user-attachments/assets/62f8818b-8fd5-49aa-ab00-bc8176cd393d)-->
 
 
-<h1 align="center">Fullstack MERN Developer</h1>
+<!-- <h1 align="center">Full-Stack MERN Developer · Blockchain Enthusiast</h1> -->
+<p align="left" >
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=50&pause=1200&duration=1500&color=BD00FF&center=true&vCenter=true&width=800&lines=Full-Stack+MERN+Developer;Blockchain+Web3+Enthusiast" alt="Typing SVG" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayandeep-Pal/Sayandeep-Pal/output/github-contribution-grid-snake-dark.svg">
@@ -14,12 +17,11 @@
 
 
 
-
-- 🎓 Curently in 3rd year of pursuing Engineering in Information Technology.
-
+- 🏆 **Winner** - Aptos Winter School 2025 @ IIT Delhi · $30k prize pool
+- 🏆 **Winner** - Build on Aptos Hackathon Kolkata 2025 · $1500 prize pool
 - 🚀 Desirous about **Blockchain Development** || Building **ZeroMove** || Learning **System Design** 
-
 - 🏠 My Portfolio : [Sayandeep Pal ↗](https://sayandeep-pal.vercel.app)
+- 🎓 Curently in 3rd year of pursuing Engineering in Information Technology.
 
 
 
