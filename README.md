@@ -17,8 +17,8 @@
 
 
 
-- 🏆 **Winner** - Aptos Winter School 2025 @ IIT Delhi · $30k prize pool
-- 🏆 **Winner** - Build on Aptos Hackathon Kolkata 2025 · $1500 prize pool
+- 🏆 **Winner** - Aptos Winter School 2025 @ IIT Delhi
+- 🏆 **Winner** - Build on Aptos Hackathon Kolkata 2025
 - 🚀 Desirous about **Blockchain Development** || Building **ZeroMove** || Learning **System Design** 
 - 🏠 My Portfolio : [Sayandeep Pal ↗](https://sayandeep-pal.vercel.app)
 - 🎓 Curently in 3rd year of pursuing Engineering in Information Technology.
